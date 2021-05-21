@@ -1,0 +1,9 @@
+animal = "Dog"
+is_cuddly = true
+animal = "Cat"
+num_8 = 7
+num_3 = 21
+quotient = num_3 / num_8
+favorite_films = ["Forrest Gump", "Coco", "Oceans 8"]
+what_is_shift = favorite_films.shift()
+what_is_length = animal.length
